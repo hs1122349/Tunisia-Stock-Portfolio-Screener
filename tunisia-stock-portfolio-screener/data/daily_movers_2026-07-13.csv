@@ -1,0 +1,9 @@
+ticker,company_name,price_tnd,change_percent,direction
+BHASS,BH ASSURANCE,76.44,9.20,gainer
+LNDOR,LAND'OR,16.29,5.03,gainer
+TINV,TUNINVEST - SICAR,53.79,4.43,gainer
+BTE,BTE (ADP),7.30,4.29,gainer
+SMD,unconfirmed company match,0.43,-8.51,loser
+ASSAD,ASSAD,2.74,-4.20,loser
+TRE,TUNIS RE,13.31,-4.18,loser
+AST,ASTREE,70.05,-4.05,loser

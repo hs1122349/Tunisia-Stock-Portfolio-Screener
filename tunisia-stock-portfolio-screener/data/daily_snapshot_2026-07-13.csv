@@ -1,0 +1,11 @@
+metric,value,unit,note
+TUNINDEX,19835.16,points,main Tunis Stock Exchange index
+TUNINDEX_change,-0.03,percent,change on the day fetched
+TBI,248.36,points,Tunisian Bond Index
+TBI_change,0.02,percent,change on the day fetched
+BRENT,72.36,USD,Brent crude oil price
+BRENT_change,0.15,percent,change on the day fetched
+EUR_TND,3.37828,TND,euro to Tunisian dinar rate
+EUR_TND_change,0.02,percent,change on the day fetched
+USD_TND,2.954,TND,US dollar to Tunisian dinar rate
+USD_TND_change,0.14,percent,change on the day fetched
