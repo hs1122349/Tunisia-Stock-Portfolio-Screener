@@ -98,15 +98,7 @@ our own rough label, not an official classification. The `portfolio_log.csv`
 file starts with one real row and grows as you run the tracker, so later
 rows depend on you entering real values by hand.
 
-## AI use disclosure
-
-AI helped build the structure of this repo, including the module layout,
-test scaffolding, and README. The market data, the model portfolio list,
-and the macro figures come directly from the three cited sites. Review
-the source articles yourself before using any of this for a real
-investment decision. This project is a coding and reporting exercise,
-not investment advice, and nothing here is a licensed recommendation to
-buy or sell any security.
+# DO NOT USE FOR REAL INVESTEMENT WITHOUT AN ADDITIONAL CHECK
 
 ## License
 
